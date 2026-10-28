@@ -106,6 +106,7 @@ Acompanamiento cuesta $2000
 Pedido cuesta $27080
 
 ## 4. Conceptos de POO en este proyecto
+
 Encapsulamiento: Se aplica ocultando los atributos con modificadores private y final en clases como Ingrediente, Sancocho y Pedido, exponiendo únicamente métodos de acceso (getters) y validaciones en los modificadores (setters) como setGramos() y setPrecioKilo().
 
 Herencia: Se utiliza mediante la relación de jerarquía donde las clases Proteina, Tuberculo, Verdura y Condimento extienden (extends) de la clase base común Ingrediente, heredando sus atributos y comportamientos compartidos.
